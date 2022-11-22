@@ -1,4 +1,40 @@
 
+#mobile_menu {
+  flex-direction: column;
+  background-image: url(./images/menu.PNG);
+  background-size:100%;
+}
+
+.topx {
+  align-self: flex-end;
+  margin: 8% 10%;
+  
+}
+
+.top_menu {
+  align-self: center;
+  font-family:'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 450%;
+  text-align: center;
+  list-style: none;
+  padding: 0;
+  margin-top: -3%;
+}
+
+.top_menu a {
+  text-decoration: none;
+  color: rgba(236, 82, 66, 1);
+}
+
+.top_menu a:hover {
+  text-decoration: underline;
+  color: rgba(236, 82, 66, 1);
+}
+
+
 body {
   width:100%;
   margin:0%
@@ -23,9 +59,16 @@ body {
   
 }
 
+.container {
+  position: fixed;
+  width:100%;
+  height: 60px;
+}
+
 .hamb {
 padding-top: 15%;
-margin-bottom: 20%;
+margin-bottom: 10%;
+
 }
 
 .span1 {
@@ -42,6 +85,11 @@ margin-bottom: 20%;
   mix-blend-mode:multiply;
   filter: saturate(4);
   font-weight: 900;
+  background-image: url(./images/tradingred.PNG);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
   }
 
 .home-p {
@@ -72,8 +120,8 @@ h2 {
 }
 
 .mainprogram {
-  background: rgba(39, 42, 49, 1);
-  background-image: url(./images/bx-cross.svg);
+  background: rgba(39, 42, 49, 0.9);
+  background-image: url(./images/cross-regular-24.png);
   display: flex;
   flex-direction: column;
   }
@@ -162,7 +210,7 @@ border-style: none;
   border-color:rgba(236, 82, 66, 1);
   
 }
-.card1 {
+.card1, .card2, .card3, .card4, .card5, .card6 {
   display:flex;
   justify-content: center;
   column-gap: 5%;
@@ -213,7 +261,7 @@ flex-direction: column;
   margin-top: 0%;
 }
 
-.f1b {
+.f1bdown {
 
 background-image: url(./images/chevron-down-regular-24.png);
 background-repeat: no-repeat;
@@ -233,14 +281,40 @@ align-self: center;
 
 }
 
+.f1bup {
+
+  background-image: url(./images/chevron-up-regular-24.png);
+  background-repeat: no-repeat;
+  background-position-x: 70%;
+  background-position-y: 50%;
+  background-color: #fff;
+  color: rgb(39, 42, 49, 0.4);
+  font-weight: 600;
+  font-family:'Lato', sans-serif;
+  font-size: 18px;
+  width: 90%;
+  height: 50px;
+  margin-bottom: 7%;
+  margin-top: 7%;
+  border:rgba(39, 42, 49, 0.4) 2px solid;
+  align-self: center;
+  
+  }
+
+
+
 .showmobile {
   display: flex;
+  
 }
 
 .hidemobile {
   display:none;
 }
   
+.showcontent {
+  display: initial;
+}
 
 
 
