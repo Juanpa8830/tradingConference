@@ -1,3 +1,5 @@
+// home section
+
 const hbutton = document.querySelector('.hamb');
 const mobileMenu = document.querySelector('#mobile_menu');
 const closeMenu = document.querySelector('.topx');
@@ -12,7 +14,7 @@ const card5 = document.querySelector('.card5');
 const card6 = document.querySelector('.card6');
 
 
-hbutton.addEventListener('click', () => {
+  hbutton.addEventListener('click', () => {
   mobileMenu.classList.replace('hidemobile', 'showmobile');
   contentMenu.classList.replace('showcontent', 'hidemobile');
 });
@@ -29,8 +31,7 @@ libutton1.addEventListener('click', () => {
 
 libutton2.addEventListener('click', () => {
   mobileMenu.classList.replace('show_menu', 'hide_menu');
-  headerMenu.classList.replace('hide_menu', 'show_menu');
-});
+ });
 
 morebutton.addEventListener('click', () => {
     card3.classList.replace('hidemobile', 'showmobile');
@@ -49,5 +50,8 @@ morebutton.addEventListener('click', () => {
     morebutton.classList.replace('hidemobile', 'showcontent');
     lessbutton.classList.replace('showcontent', 'hidemobile');
   });
+
+  const feathidden = document.querySelector('#feathidden');
+  feathidden.style.display = "none";
 
   
