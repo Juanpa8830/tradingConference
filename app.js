@@ -42,7 +42,7 @@ const cards = [
     name: 'Roberto A. Ruarte',
     position: 'forerunner of Technical Analysis in Argentina and Latin America and founder of the company Ruarte Reports in 1991.',
     featImage: './images/RobertoDuarte.png',
-    description: `Fresh and relevant financial instruments based on Elliott Wave Theory and Technical Analysis`,
+    description: 'Fresh and relevant financial instruments based on Elliott Wave Theory and Technical Analysis',
   },
 
   {
@@ -52,7 +52,7 @@ const cards = [
     featImage: './images/JohnBollinger.PNG',
     description: `he is the creator of the "Bollinger Bands" and other related tools that have been integrated into most
      graphics platforms and analytical software.`,
-  }
+  },
 ];
 
 const cardsList = document.getElementById('featcards');
