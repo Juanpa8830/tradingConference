@@ -247,10 +247,9 @@ h2 {
 }
 
 .backgcolor {
-background-color: rgba(236, 82, 66, 1);
-mix-blend-mode: hard-light;
-height: 100%;
-
+  background-color: rgba(236, 82, 66, 1);
+  mix-blend-mode: hard-light;
+  height: 100%;
 }
 
 .h4cole {
@@ -421,7 +420,9 @@ height: 100%;
 .logo3,
 .logo4,
 .logo5 {
-  width: 25%;
+  width: 30%;
+  margin-left: 5%;
+  margin-top: 3%;
 }
 
 .h41,
@@ -587,42 +588,45 @@ height: 100%;
 }
 
 @media (min-width: 768px) {
-
-  .card3, .card4, .card5, .card6 {
-    display:flex;
+  .card3,
+  .card4,
+  .card5,
+  .card6 {
+    display: flex;
   }
 
-  .f1bdown, .f1bup {
-display:none;
+  .f1bdown,
+  .f1bup {
+    display: none;
   }
 
   #featcards {
-   display: grid;
-   align-self: center;
-   margin-bottom: 5%;
-      grid-template-columns: 1fr 1fr;
-      grid-template-rows: 1fr 1fr 1fr;
-      gap: 1% 1%;
-      grid-auto-flow: row;
-      justify-items: stretch;
-      align-items: stretch;
-      grid-template-areas:
-        "card1 card2"
-        "card3 card4"
-        "card5 card6";
-      width: 70%;
-      height: 70%;
-    }
-    
-    .card1 { grid-area: card1; }
-    .card2 { grid-area: card2; }
-    .card3 { grid-area: card3; }
-    .card4 { grid-area: card4; }
-    
-    .card5 { grid-area: card5; }
-    
-    .card6 { grid-area: card6; }
-    
+    display: grid;
+    align-self: center;
+    margin-bottom: 5%;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 1% 1%;
+    grid-auto-flow: row;
+    justify-items: stretch;
+    align-items: stretch;
+    grid-template-areas:
+      "card1 card2"
+      "card3 card4"
+      "card5 card6";
+    width: 70%;
+    height: 70%;
+  }
+
+  .card1 { grid-area: card1; }
+  .card2 { grid-area: card2; }
+  .card3 { grid-area: card3; }
+  .card4 { grid-area: card4; }
+
+  .card5 { grid-area: card5; }
+
+  .card6 { grid-area: card6; }
+
   .desk_menu {
     background-color: #272a31;
     width: 100%;
@@ -815,6 +819,16 @@ display:none;
     width: 100%;
   }
 
+  .logo1,
+  .logo2,
+  .logo3,
+  .logo4,
+  .logo5 {
+    width: 30%;
+    padding: 0;
+    margin: 0;
+  }
+
   .p1button2 {
     color: rgb(255, 255, 255, 0.8);
     background-color: transparent;
@@ -972,6 +986,18 @@ display:none;
   .footspanab {
     margin-top: 3%;
     font-size: 16px;
+  }
+
+  .division_fh3 {
+    width: 4%;
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  .fs {
+    margin-top: 4%;
+    padding: 0;
+    margin-bottom: 1%;
   }
 }
 
