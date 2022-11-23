@@ -12,20 +12,20 @@ const card5 = document.querySelector('.card5');
 const card6 = document.querySelector('.card6');
 
 hbutton.addEventListener('click', () => {
-    mobileMenu.classList.replace('hidemobile', 'showmobile');
-    contentMenu.classList.replace('showcontent', 'hidemobile');
+  mobileMenu.classList.replace('hidemobile', 'showmobile');
+  contentMenu.classList.replace('showcontent', 'hidemobile');
 });
 
 closeMenu.addEventListener('click', () => {
-    mobileMenu.classList.replace('showmobile', 'hidemobile');
-    contentMenu.classList.replace('hidemobile', 'showcontent');
+  mobileMenu.classList.replace('showmobile', 'hidemobile');
+  contentMenu.classList.replace('hidemobile', 'showcontent');
 });
 
 libutton1.addEventListener('click', () => {
-    mobileMenu.classList.replace('showmobile', 'hidemobile');
-    contentMenu.classList.replace('hidemobile', 'showcontent');
+  mobileMenu.classList.replace('showmobile', 'hidemobile');
+  contentMenu.classList.replace('hidemobile', 'showcontent');
 });
 
 libutton2.addEventListener('click', () => {
-    mobileMenu.classList.replace('show_menu', 'hide_menu');
+  mobileMenu.classList.replace('show_menu', 'hide_menu');
 });
