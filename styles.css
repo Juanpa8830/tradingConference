@@ -669,7 +669,7 @@ h2 {
     list-style: none;
     column-gap: 30%;
     justify-content: space-around;
-    padding-top: 1.3%;
+    padding-top: 1.6%;
     padding-left: 22%;
   }
 
@@ -686,6 +686,34 @@ h2 {
     padding-bottom: 1%;
     padding-top: 0.5%;
   }
+
+  .homecc {
+justify-content:flex-end;
+   align-self: center;
+   margin-left: 15%;
+   font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    background-color: #fff;
+    border:5px solid  rgba(236, 82, 66, 1);
+    color: rgba(236, 82, 66, 1);
+    height: 50px;
+
+    }
+
+    .aboutcc {
+      justify-content:flex-end;
+         align-self: center;
+         margin-left: 15%;
+         font-family: 'Lato', sans-serif;
+          font-size: 20px;
+          font-weight: 900;
+          background-color: #fff;
+          border:5px solid  rgba(236, 82, 66, 1);
+          color: rgba(236, 82, 66, 1);
+          height: 50px;
+      
+        }
 
   #home {
     margin-left: 15%;
@@ -797,6 +825,10 @@ h2 {
     padding: 2%;
     text-align: center;
     gap: 7%;
+  }
+
+  .p1:hover {
+  border: 2px solid white;    
   }
 
   .h41,
