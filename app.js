@@ -14,7 +14,7 @@ const cards = [
     id: 'card2',
     name: 'Marcello Arrambide',
     position: 'Founder of Day Trading Academy.',
-    featImage: './images/marcellologo.PNG',
+    featImage: './images/marcellologo.png',
     description: `has been the subject of numerous articles and books written about Wall Street&apos;s
         most successful traders, including popular books such as Bulls, Bears, and  Brains.`,
   },
@@ -49,7 +49,7 @@ const cards = [
     id: 'card6',
     name: 'John Bollinger',
     position: 'Technical analyst and television commentator. Chairman and founder of Bollinger Capital Management Inc.',
-    featImage: './images/JohnBollinger.PNG',
+    featImage: './images/JohnBollinger.png',
     description: `he is the creator of the "Bollinger Bands" and other related tools that have been integrated into most
      graphics platforms and analytical software.`,
   },
