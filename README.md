@@ -97,8 +97,8 @@ After you're finished please remove all the comments and instructions!
 > Describe between 1-3 key features of the application.
 
 - **[Added dynamic featured speakers section with JavaScript]**
-- **[Create a functional "More" button to show more cards in mobile version]**
-- **[Create a functional "Less" button to hide cards in mobile version]**
+- **[Created a functional "More" button to show more cards in mobile version]**
+- **[Created a functional "Less" button to hide cards in mobile version]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +108,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://juanpa8830.github.io/tradingConference/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +118,11 @@ After you're finished please remove all the comments and instructions!
 
 > Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these steps:
+
+- [ ] Navigate to the button on the top right green "code" button.
+- [ ] In the drop down menu choose "Download Zip".
+- [ ] After extracting the files, you'll have my project on your local machine.
 
 ### Prerequisites
 
@@ -202,11 +206,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Juan Pablo Guerrero Rios**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Juanpa8830](https://github.com/Juanpa8830)
+- Twitter: [@juanPa8830](https://https://twitter.com/JuanPa8830)
+- LinkedIn: [Juan Pablo Guerrero](https://www.linkedin.com/in/juanguerrerorios)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,9 +220,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Add dynamic featured speakers in JavaScript]**
-- [ ] **[Create a functional "More" button to show more cards]**
-- [ ] **[new_feature_3]**
+- [ ] **[Add home icon in desktop version to move to the top of the page]**
+- [ ] **[Add a user registration form]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,7 +242,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -248,7 +252,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+Template was provided by Cindy Shin on Behance and you can view it [here](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
