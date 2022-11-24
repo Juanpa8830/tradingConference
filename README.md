@@ -59,15 +59,11 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Trading Conference] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Latin America Trading Conference]** is a project tht was built with CSS, HTML and JavaScript technologies. It has two sections (Home/About) where I want to show a Trading conference Event that I'd like to happen in 2023. All the featured speakers are very important people in this industry and it would be a honor to have them in Latin America in Colombia and Ecuador. The project was built responsive, so it works for both mobile/desktop versions.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Home/about</summary>
@@ -94,8 +90,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Added dynamic featured speakers section with JavaScript]**
 - **[Created a functional "More" button to show more cards in mobile version]**
 - **[Created a functional "Less" button to hide cards in mobile version]**
@@ -106,7 +100,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://juanpa8830.github.io/tradingConference/)
 
@@ -116,8 +109,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps:
 
 - [ ] Navigate to the button on the top right green "code" button.
@@ -126,85 +117,10 @@ To get a local copy up and running, follow these steps:
 
 ### Prerequisites
 
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
-### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Juan Pablo Guerrero Rios**
 
@@ -217,8 +133,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Add home icon in desktop version to move to the top of the page]**
 - [ ] **[Add a user registration form]**
@@ -240,7 +154,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+
 
 Give a ⭐️ if you like this project!
 
@@ -250,7 +164,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+
 
 Template was provided by Cindy Shin on Behance and you can view it [here](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
