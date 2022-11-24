@@ -688,32 +688,30 @@ h2 {
   }
 
   .homecc {
-justify-content:flex-end;
-   align-self: center;
-   margin-left: 15%;
-   font-family: 'Lato', sans-serif;
+    justify-content: flex-end;
+    align-self: center;
+    margin-left: 15%;
+    font-family: 'Lato', sans-serif;
     font-size: 20px;
     font-weight: 900;
     background-color: #fff;
-    border:5px solid  rgba(236, 82, 66, 1);
+    border: 5px solid  rgba(236, 82, 66, 1);
     color: rgba(236, 82, 66, 1);
     height: 50px;
+  }
 
-    }
-
-    .aboutcc {
-      justify-content:flex-end;
-         align-self: center;
-         margin-left: 15%;
-         font-family: 'Lato', sans-serif;
-          font-size: 20px;
-          font-weight: 900;
-          background-color: #fff;
-          border:5px solid  rgba(236, 82, 66, 1);
-          color: rgba(236, 82, 66, 1);
-          height: 50px;
-      
-        }
+  .aboutcc {
+    justify-content: flex-end;
+    align-self: center;
+    margin-left: 15%;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    background-color: #fff;
+    border: 5px solid  rgba(236, 82, 66, 1);
+    color: rgba(236, 82, 66, 1);
+    height: 50px;
+  }
 
   #home {
     margin-left: 15%;
@@ -828,7 +826,7 @@ justify-content:flex-end;
   }
 
   .p1:hover {
-  border: 2px solid white;    
+    border: 2px solid white;
   }
 
   .h41,
