@@ -23,7 +23,7 @@ const cards = [
     id: 'card3',
     name: 'Steve Cohen',
     position: 'Co-founder of Pristine Capital Holdings, Inc.',
-    featImage: './images/stevecohen.PNG',
+    featImage: './images/SteveCohen.PNG',
     description: `His company was called S. A. C. Capital advisors and started with a capital of 20 million dollars.
      Currently, Cohen is in the thirtieth place among the people with the most money in the United States.`,
   },
@@ -32,7 +32,7 @@ const cards = [
     id: 'card4',
     name: 'David Tepper',
     position: 'President and founder of Appaloosa Management.',
-    featImage: './images/davidtepper.PNG',
+    featImage: './images/DavidTepper.PNG',
     description: `He also made several investments in which he generated profits, but it was not until 2009 that he won 
     another quite considerable sum, which was close to 7 billion dollars.`,
   },
@@ -41,7 +41,7 @@ const cards = [
     id: 'card5',
     name: 'Roberto A. Ruarte',
     position: 'forerunner of Technical Analysis in Argentina and Latin America and founder of the company Ruarte Reports in 1991.',
-    featImage: './images/robertoduarte.PNG',
+    featImage: './images/RobertoDuarte.PNG',
     description: 'Fresh and relevant financial instruments based on Elliott Wave Theory and Technical Analysis',
   },
 
@@ -49,7 +49,7 @@ const cards = [
     id: 'card6',
     name: 'John Bollinger',
     position: 'Technical analyst and television commentator. Chairman and founder of Bollinger Capital Management Inc.',
-    featImage: './images/johnbollinger.PNG',
+    featImage: './images/JohnBollinger.PNG',
     description: `he is the creator of the "Bollinger Bands" and other related tools that have been integrated into most
      graphics platforms and analytical software.`,
   },
