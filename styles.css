@@ -1063,4 +1063,12 @@ h2 {
   .abconfspanlong {
     display: none;
   }
+
+  .homecc {
+    display:none;
+  }
+
+  .aboutcc {
+    display:none;
+  }
 }
