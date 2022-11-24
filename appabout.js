@@ -5,7 +5,6 @@ const contentMenu = document.querySelector('#content');
 const libutton1 = document.querySelector('.top-a1');
 const libutton2 = document.querySelector('.top-a2');
 
-
 hbutton.addEventListener('click', () => {
   mobileMenu.classList.replace('hidemobile', 'showmobile');
   contentMenu.classList.replace('showcontent', 'hidemobile');
